@@ -1,0 +1,17 @@
+.my-text {
+ margin: 20px;
+ color: #0aad9a
+}
+
+h1{
+    text-align: center;
+    color: #0aad9a
+}
+
+form{
+    text-align: center;
+    border: none;
+}
+li {
+    text-align: left ;
+}
